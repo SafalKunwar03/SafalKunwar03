@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an IT enthusiast eager to learn technological advancements and apply innovative solutions to real-world problems. Currently, I am a 2nd year student pursuing a Bachelor's degree in Information Technology at Informatics College Pokhara located in Pokhara, Nepal which is affiliated with London Metropolitan University.<br><br>I have gained knowledge of programming languages including HTML, CSS, JavaScript, Java, Python and C++. I'm familiar with network operating systems like Windows and Linux and have basic knowledge of database management. I enjoy building real-world applications and continuously exploring new technologies.
+I am an IT enthusiast eager to learn technological advancements and apply innovative solutions to real-world problems. Currently, I am a 3rd year student pursuing a Bachelor of Science (Honours) Computing degree at Informatics College Pokhara located in Pokhara, Nepal which is affiliated with London Metropolitan University.<br><br>I have gained knowledge of programming languages including HTML, CSS, JavaScript, Java and Pythin. I am familiar with network operating systems like Windows and Linux and have basic knowledge of database management. I enjoy building real-world applications and continuously exploring new technologies.
 
 
 ## 🌐 Socials:
